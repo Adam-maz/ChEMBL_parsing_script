@@ -3,6 +3,7 @@ Scripts that enable researchers to parse through ChEMBL bioactivity reports in r
 Cannabinoid Receptor Type 1 was used as an example in case of python script. I have also put an additional parser (script in R) which is 'lighter' version of proposed python parser (Histamine Receptor Type 3 was used as an example).
 
 
+
 Dependencies:
 1) Python script:
   a) pandas
