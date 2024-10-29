@@ -6,7 +6,7 @@ Cannabinoid Receptor Type 1 was used as an example in case of python script. I h
 
 Dependencies:
 1) Python script:
-  a) pandas
-  b) decimal
-2) R script:
-   a) dplyr 
+   - pandas
+   - decimal
+3) R script:
+   - dplyr 
